@@ -1,7 +1,7 @@
 import yagmail
 
-sender_email = "remi.meson@gmail.com"
-receiver_email = "fuoko.fr@gmail.com"
+sender_email = "XXXXXXXXXXXXXXXXXXXXXXX"
+receiver_email = "XXXXXXXXXXXXXXXXXXXXXXX" 
 subject = "Vouz avez gagné un jambon de bayonne au porc noir de bigorre"
 content = "Eh non pas de chance !"
 fichier = '/home/spanmail/cle_mail.txt'
